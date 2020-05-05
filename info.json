@@ -1,0 +1,19 @@
+{
+	"name": "Sean Riley",
+	"linkedin": "https://www.linkedin.com/in/scriley/",
+		"email": "seancriley@earthlink.net",
+		"proficientTechnologies": [
+		"Javascript",
+		"React",
+		"Vue",
+		"Node",
+		"Express",
+		"Mongodb",
+		"PostgreSQL",
+		"Python",
+		"Django",
+		"Wordpress",
+		"Drupal"
+	],
+	"otherSkills": ["Unagi", "Five Finger Fillet", "Bridge"]
+}
